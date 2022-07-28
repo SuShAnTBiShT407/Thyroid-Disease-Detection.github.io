@@ -1,9 +1,0 @@
-2022-07-18 22:56:09 Reading the dataset.....!!!!
-2022-07-18 22:58:12 read the dataset successfully !!
-2022-07-18 23:10:58 replced all the disease all different catagory with one catagory 'Yes' 
-2022-07-18 23:11:57 Classified the Label feature into 0 nad 1
-2022-07-18 23:24:34 renamed all the feature columns
-2022-07-18 23:25:17 saving the processed data into csv format...............
-2022-07-18 23:26:26 Saved the file successfully !!!!
-2022-07-18 23:26:26 First Phase of Data Preprocessing is done !!!
-2022-07-26 10:58:41 Reading the dataset.....!!!!

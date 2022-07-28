@@ -1,4 +1,0 @@
-20:25:18		Reciving all the data from the form POST method
-20:25:18		Error in recieving the form values!
-20:28:24		Reciving all the data from the form POST method
-20:28:24		Error in recieving the form values!
