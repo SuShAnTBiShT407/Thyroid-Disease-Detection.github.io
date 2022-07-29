@@ -9,7 +9,7 @@ Thyroid disease is a common cause of medical diagnosis and prediction, with an o
 Webpage Link
 =================================================================================================================================================
 
-coming soon
+https://thyroid-disease-detection-v2.herokuapp.com/
 ------------------------
 
 Demo
