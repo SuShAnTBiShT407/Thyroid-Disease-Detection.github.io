@@ -8,6 +8,7 @@ from DataPreprocessing_2.data_preprocessing_phase2 import Data_Preprocessing_Pha
 
 st.set_page_config(layout="wide")
 
+@st.cache
 def model_prediction_pickel(df):
     model=  pickle.load(open('model.pkl', 'rb'))
     arr = np.array(df)
