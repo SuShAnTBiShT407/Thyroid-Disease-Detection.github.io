@@ -3,7 +3,6 @@ import streamlit as st
 import xgboost as xgb
 import numpy as np
 import pandas as pd
-from DataPreprocessing_2.data_preprocessing_phase2 import Data_Preprocessing_Phase
 
 
 st.set_page_config(layout="wide")
