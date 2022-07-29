@@ -1,0 +1,10 @@
+# cat .slugignore
+
+/data_preprocessing_dataset
+/DataPreprocessing_1
+/DataPreprocessing_2
+/Docs 
+/img
+/Model_Training
+/Training_Dataset
+/README.md
