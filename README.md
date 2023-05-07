@@ -14,8 +14,8 @@ https://thyroid-disease-detection-v2.herokuapp.com/
 
 Demo
 =================================================================================================================================================
+https://youtu.be/l-2c21P9yTU
 
-coming soon
 ------------------------
 
 Technical Aspects
